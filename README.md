@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Wen Xuan</h1>
-<h3 align="center">A passionate engineer from Singapore</h3>
+<h3 align="center">A passionate Facility Manufacturing DX engineer from Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saltybrownie&label=Profile%20views&color=0e75b6&style=flat" alt="saltybrownie" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saltybrownie" alt="saltybrownie" /></a> </p>
 
-- 🌱 I’m currently learning **Python via Udemy 100 Days of code**
+- 🌱 Learning python and others
 
-- ⚡ Fun fact **I believe im lucky to be born!**
+- ⚡ Fun fact ** AI is so interesting!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
